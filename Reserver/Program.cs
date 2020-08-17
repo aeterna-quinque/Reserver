@@ -1,13 +1,7 @@
-﻿using System;
-
-namespace Reserver
+﻿namespace Reserver
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Copier.Copy();
-            Console.WriteLine("Done.");
-        }
+        static void Main(string[] args) => Copier.Copy();
     }
 }

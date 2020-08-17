@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Reserver.exe.config
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Reserver.exe
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Reserver.pdb
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.csproj.CopyComplete
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.exe
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.pdb
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Reserver.exe.manifest
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\bin\Release\Reserver.application
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.exe.manifest
+C:\Users\user\Desktop\Tasks\Reserver\Reserver\obj\Release\Reserver.application

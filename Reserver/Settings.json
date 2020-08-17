@@ -1,13 +1,4 @@
-﻿{
-  "destination": "C:\\Users\\user\\Desktop\\Tasks\\dest",
-  "source": [
-    {
-      "index": 1,
-      "folder": "C:\\Users\\user\\Desktop\\Tasks\\source1\\source1"
-    },
-    {
-      "index": 2,
-      "folder": "C:\\Users\\user\\Desktop\\Tasks\\source2"
-    }
-  ]
+{
+  "destination": "",
+  "source": ""
 }
